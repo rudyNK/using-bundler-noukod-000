@@ -10,6 +10,10 @@ group :development do
 gem "hashie"
 end
 
+group :development do
+gem 'sinatra', '~> 1.4.4'
+end
+
 
 group :development do
 gem "octokit"
