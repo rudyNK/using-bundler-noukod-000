@@ -12,7 +12,7 @@ end
 
 
 group :development do
-gem 'sinatra', '~> 1.4', '>= 1.4.4'
+gem 'sinatra', '~> 1.4', '>= 1.4.8'
 end
 
 
