@@ -19,5 +19,5 @@ gem "octokit"
 end
 
 group :development do
-gem "awesome print"
+gem "awesomeprint"
 end
