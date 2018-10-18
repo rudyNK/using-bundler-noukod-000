@@ -17,3 +17,7 @@ end
 group :development do
 gem "awesome_print"
 end
+
+group :development do
+gem "test"
+end
